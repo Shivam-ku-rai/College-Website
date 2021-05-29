@@ -1,0 +1,80 @@
+header{
+    background-color: #421e1e;
+    color: white;
+}
+h2{
+    font-size: 25px;
+       
+}
+.hd{
+    color: white;
+    padding: 7px 14px;
+    background-color: black;
+    border-radius: 40px;
+    margin: 3px;
+}
+.logo{
+    max-width: 21%;
+    height: auto;
+}
+.new{
+    display: inline-block;
+}
+#description{
+    height: 25px;
+    padding-top: 5px;
+    overflow: hidden;
+}
+#description a:hover{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+marquee{
+    display: inline-block;
+}
+.box3{
+    background: brown;
+    margin: 0px 0px;
+    border-radius: 22px;
+}
+section{
+    background-color: #fed7b0;
+}
+.listItems{
+    display: block;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 2px;
+    font-size: 14px;
+}
+footer{
+    height:8vh;
+    background-color: #421e1e;
+    display: flex;
+    justify-content: center;
+}
+.vl {
+    border-left: 2px solid white;
+    padding: 0px 2px;
+    height: 50vh;
+}
+.hd1{
+    color: white;
+    font-size: small;
+}
+.cen{
+    text-align: center;
+}
+
+
+
+.boxCon{
+    padding: 15px;
+    background-color: #421e1e;
+    color: white;
+    border-radius: 7px;
+}
+.bg-gray-300{
+    background-color: #421e1e;
+}
